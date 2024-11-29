@@ -7,4 +7,4 @@ Jeffrey - Niet lead
 Gabriel - Niet lead
 
 ## eindproduct
-- type hier een link naar de live-view van het eindproduct op ma-cloud
+https://24202.hosts2.ma-cloud.nl/Multiopdracht/
